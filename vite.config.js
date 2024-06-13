@@ -1,5 +1,6 @@
 import { defineConfig } from 'vite';
 import laravel from 'laravel-vite-plugin';
+import livewire from '@defstudio/vite-livewire-plugin'; // Here we import it
 
 export default defineConfig({
     plugins: [
@@ -8,7 +9,11 @@ export default defineConfig({
                 'resources/css/app.css',
                 'resources/js/app.js',
             ],
-            refresh: true,
+            refresh: false,
+        }),
+
+        livewire({  // Here we add it to the plugins
+            refresh: ['resources/css/app.css'],
         }),
     ],
 });
