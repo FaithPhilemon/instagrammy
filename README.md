@@ -94,8 +94,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 If you have any questions, feel free to reach out:
 
 - **Email**: philemonfaith@gmail.com
-- **Twitter**: [@yourhandle](https://x.com/philemonfaith)
-- **GitHub**: [yourusername](https://github.com/FaithPhilemon)
+- **Twitter**: [@philemonfaith](https://x.com/philemonfaith)
+- **GitHub**: [faithphilemon](https://github.com/FaithPhilemon)
 
 ## Acknowledgements
 
